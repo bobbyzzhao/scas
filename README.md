@@ -1,2 +1,4 @@
-# spring-clound-alibaba-study
-a study project
+# scas
+scas mains "spring clound alibaba study"
+just a study project
+have fun.
